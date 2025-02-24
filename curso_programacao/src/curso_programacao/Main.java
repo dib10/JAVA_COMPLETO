@@ -3,8 +3,9 @@ package curso_programacao;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Bom dia!");
-		System.out.println("Caio!");
+		int y = 32;
+		
+		System.out.println(y);
 
 
 	}

@@ -11,9 +11,6 @@ public class Main {
 		System.out.printf("%.4f%n",x);
 		System.out.print("Resultado = " + x + " Metros");
 
-
-
-
 	}
 
 }

@@ -10,7 +10,7 @@ public class ex02 {
 
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Digite o valor do raio: ");
+		System.out.println("Digite o valor do raio: '");
 		Double R = sc.nextDouble();
 		Double A = pi * R * R;
 

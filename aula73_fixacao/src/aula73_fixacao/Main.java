@@ -12,7 +12,7 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Digite o valor em dólares que deseja comprar: ");
-        double valorDolar = sc.nextDouble();
+        double valorDolarCompra = sc.nextDouble();
 		
 		System.out.println("Digite a cotação do dólar");
 		double cotacaoDolar = sc.nextDouble();

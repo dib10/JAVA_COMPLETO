@@ -60,7 +60,7 @@ public class Banco {
 				+ ", " + "Nome: "
 				+ nome
 				+ "Saldo: "
-				+ String.format("%.2f",saldo);
+				+ String.format(" %.2f",saldo);
 	}
 	
 	
